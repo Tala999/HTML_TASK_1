@@ -1,0 +1,52 @@
+@media (max-width: 767.98px) { 
+	.text{
+		text-align: center;
+	}
+}
+.bodycolor{
+	background-color:#8CB1D9;
+}
+
+*{
+	font-family: 'Libre Baskerville', serif;
+}
+
+.first-col{
+	background-color:#C0DBF1;	
+}
+
+.second-col{
+	background-color:#F6F8F8;
+}
+
+label{
+	color:#445C70;
+	font-family:'Libre Baskerville', serif;
+	font-size:12px;
+	
+}
+
+input{
+	border-color:#C0DBF1;
+	border-width:1px;
+}
+
+textarea{
+border-color:#C0DBF1;
+}
+
+.item{
+	font-size:12px;
+}
+
+.icon-color{
+	color:#445C70;
+}
+
+.btn-color{
+	background-color:#C0DBF1;
+	color:black;
+	border-color:#C0DBF1;
+	font-size:12px;
+}
+
